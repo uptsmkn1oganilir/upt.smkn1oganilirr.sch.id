@@ -41,23 +41,25 @@ h6 {
 /* -----------------------------------------------------------
 #My Font Size 
 --------------------------------------------------------------- */
-.fs-small{
+.fs-small {
   font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
   color: #18d26e;
 }
-.fs-small-p{
+
+.fs-small-p {
   font-size: 12px;
   font-family: Arial, Helvetica, sans-serif;
   color: #18d26e;
 }
-.fs-small-sub{
+
+.fs-small-sub {
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
   color: #18d26e;
 }
 
-.bg-success-table{
+.bg-success-table {
   background-color: #18d26e;
   color: white;
 }
